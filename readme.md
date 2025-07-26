@@ -33,7 +33,7 @@ This is achieved using a public/private key pair (RSA encryption). On the login 
 ## Demonstration
 
 For a visual walkthrough of how the plugin works, please see the included video demonstration:  
-[Demonstration Video](demo.gif)
+![Secure Login Demonstration](demo.gif)
 
 ---
 
